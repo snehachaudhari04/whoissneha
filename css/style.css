@@ -72,6 +72,11 @@ html::-webkit-scrollbar-thumb{
       margin-bottom: 5px;
       font-family: 'AR One Sans', sans-serif;
 }
+.companyName{
+    font-size: 2vmin;
+    font-family: 'AR One Sans', sans-serif;
+
+}
 .profession{
     color:#4b4c4c ;
     border-bottom:1px solid #e2e8f0;
@@ -189,6 +194,22 @@ html::-webkit-scrollbar-thumb{
     font-size: 14px;
     color:#747575 ;
     --text-opacity: 1;
+}
+.experince{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.ksemin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   margin-left: 30rem;
+   margin-right: 30rem;
+   text-align: center;
+   line-height: 2.5rem;
 }
 .skillsection{
    width: 100vw;
