@@ -373,7 +373,12 @@ html::-webkit-scrollbar-thumb{
             padding-right: 15px;
             
         }
-        
+        .ksemin {
+            
+            margin-left: 2rem;
+            margin-right: 2rem;
+    
+        }
 
 }
 
