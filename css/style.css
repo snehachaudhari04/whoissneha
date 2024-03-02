@@ -339,7 +339,7 @@ html::-webkit-scrollbar-thumb{
        margin-bottom: 1px;
       }
       .btn{
-        padding-bottom: 5px;
+        padding-bottom: 3px;
     }
     .profession{
          padding: 20px;
@@ -354,7 +354,7 @@ html::-webkit-scrollbar-thumb{
         }
         .div1{
             width: 90vw;
-            height: 60vh;
+            height: 70vh;
             background-color:rgba(247,250,252,255);
             
         }
